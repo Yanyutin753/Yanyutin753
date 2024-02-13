@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**Yanyutin753/Yanyutin753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  # Hi there 👋
+    
+  <img src="https://profile-counter.glitch.me/{RockChinQ}/count.svg" />
+  
+  <p align="center"> From Guangzhou (<a href="https://en.wikipedia.org/wiki/Guangzhou">广州</a>), China.  </p>
+  <p align="center">Undergraduate at SCNU. </p>
+  <p align="center"> Coding 1 year. </p>
+  
+  <div align="center">
+  <details>
+  <summary>✨More (Github Stats, Contact)</summary>
+  
+  <div align="left">
+  <!--
+  <p align="center"> 
+  ⚒️Perfecting the world with: JavaScript, Java, C , Python⚒️
+  </p> -->
+  
+  ### 📊 GitHub Stats 
+  <div align="center">
+  <p > <img width="300em" src="https://github-readme-stats.vercel.app/api?username=Yanyutin753&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
+  </p>
+  
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ### 📲 联系方式 CONTACT ME
+    
+  - Email: 3254822118@qq.com
+  - QQ: 3254822118
+  
+  </details>
+  </div>
+</div>
