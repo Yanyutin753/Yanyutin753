@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/{Yanyutin753}/count.svg" />
   
   <p align="center"> From Guangzhou (<a href="https://en.wikipedia.org/wiki/Guangzhou">广州</a>), China.  </p>
-  <p align="center">Undergraduate at SCNU. </p>
+  <p align="center">Studying at SCNU. </p>
   <p align="center"> Coding 1 year. </p>
   
   <div align="center">
