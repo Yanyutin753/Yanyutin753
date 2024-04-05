@@ -25,12 +25,6 @@
   </p>
   
   </div>
-
-  
-  ### 📲 联系方式 CONTACT ME
-    
-  - Email: 3254822118@qq.com
-  - QQ: 3254822118
   
   </details>
   </div>
