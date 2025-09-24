@@ -30,7 +30,7 @@
 
   ### 📲 联系方式 CONTACT ME
 
-  - Email: 20210734032@m.scnu.edu.cn
+  - Email: 3254822118@qq.com
   </details>
   </div>
 </div>
