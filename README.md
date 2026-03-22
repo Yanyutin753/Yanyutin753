@@ -27,7 +27,6 @@
 
   <div align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanyutin753&layout=compact&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&hide_border=true&theme=radical&langs_count=8" />
-    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Yanyutin753&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&column=4&margin-w=8&margin-h=8&no-frame=true&theme=radical" />
   </div>
 
   </details>
