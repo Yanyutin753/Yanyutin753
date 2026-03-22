@@ -2,8 +2,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yanyutin753&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=52" width="100%" />
 
-  <img src="https://profile-counter.glitch.me/Yanyutin753/count.svg" />
-
   <p align="center">
     <b>🇨🇳 Guangzhou, China</b> · 🎓 SCNU · 💻 <b>3+ Years</b> of Coding
   </p>
