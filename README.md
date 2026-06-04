@@ -71,24 +71,44 @@ interests:
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Yanyutin753/PandoraNext-TokensTool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yanyutin753&repo=PandoraNext-TokensTool&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&icon_color=fa4694&hide_border=true&show_owner=true&description=More+convenient+%26+secure+management+for+PandoraNext" />
-</a>
+### 🔑 [PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool)
+
+More convenient & secure management for PandoraNext.
+Token management, sharing, one-click deployment.
+<img src="https://img.shields.io/badge/⭐_1.2k_Stars-fa4694?style=flat-square" />
+<img src="https://img.shields.io/badge/🔖_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/📜_MIT-green?style=flat-square" />
+
 <br/><br/>
-<a href="https://github.com/Yanyutin753/refresh-gpt-chat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yanyutin753&repo=refresh-gpt-chat&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&icon_color=fa4694&hide_border=true&show_owner=true" />
-</a>
+
+### 💬 [refresh-gpt-chat](https://github.com/Yanyutin753/refresh-gpt-chat)
+
+refresh-gpt-chat transfers /v1/* API with refresh_token as key.
+Auto-update access_token, high concurrency support.
+<img src="https://img.shields.io/badge/⭐_240_Stars-fa4694?style=flat-square" />
+<img src="https://img.shields.io/badge/🔖_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/📜_MIT-green?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Yanyutin753/LambChat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yanyutin753&repo=LambChat&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&icon_color=fa4694&hide_border=true&show_owner=true&description=Multi-tenant+AI+Agent+Harness+Platform" />
-</a>
+### 🤖 [LambChat](https://github.com/Yanyutin753/LambChat)
+
+Multi-tenant AI Agent Harness Platform.
+Skills + MCP dual-engine, SSE streaming, JWT/RBAC auth.
+<img src="https://img.shields.io/badge/⭐_170_Stars-fa4694?style=flat-square" />
+<img src="https://img.shields.io/badge/🔖_TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/📜_Other-blue?style=flat-square" />
+
 <br/><br/>
-<a href="https://github.com/Yanyutin753/shop-task-forlovers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yanyutin753&repo=shop-task-forlovers&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&icon_color=fa4694&hide_border=true&show_owner=true" />
-</a>
+
+### ❤️ [shop-task-forlovers](https://github.com/Yanyutin753/shop-task-forlovers)
+
+A task & shop website for couples/friends.
+Built with Vue3 + SpringBoot, student-friendly free deployment.
+<img src="https://img.shields.io/badge/⭐_180_Stars-fa4694?style=flat-square" />
+<img src="https://img.shields.io/badge/🔖_Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/📜_MIT-green?style=flat-square" />
 
 </td>
 </tr>
@@ -99,11 +119,6 @@ interests:
 <div align="center">
 
 ### ✨ GitHub Stats & Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yanyutin753&show_icons=true&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&theme=radical" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanyutin753&layout=compact&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&hide_border=true&theme=radical&langs_count=8" height="170" />
-
-<br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanyutin753&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&hide_border=true&theme=radical" />
 
