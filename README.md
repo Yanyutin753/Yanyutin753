@@ -109,22 +109,7 @@ interests:
 
 <br /><br />
 
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Yanyutin753&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" width="600" />
-
-<br /><br />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanyutin753&bg_color=0d1117&color=fa4694&line=c9d1d9&point=fa4694&area=true&hide_border=true" width="600" />
-
-</div>
-
----
-
-### 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yanyutin753&title_color=fa4694&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact" width="400" />
 
 </div>
 
