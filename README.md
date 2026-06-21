@@ -102,103 +102,6 @@ current_project: 🐑 LambChat — Multi-tenant AI Agent Platform
 
 ---
 
-### 📦 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🔑 <a href="https://github.com/Yanyutin753/PandoraNext-TokensTool">PandoraNext-TokensTool</a></h3>
-
-<p align="center">More convenient & secure management for PandoraNext.<br/>Token management, sharing, one-click deployment.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/⭐_1.3k-fa4694?style=flat-square" />
-<img src="https://img.shields.io/badge/🍴_129-9c27b0?style=flat-square" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MIT-green?style=flat-square" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 <a href="https://github.com/Yanyutin753/LambChat">LambChat</a></h3>
-
-<p align="center">Multi-tenant AI Agent Platform.<br/>Skills + MCP dual-engine, SSE streaming, JWT/RBAC auth.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/⭐_191-fa4694?style=flat-square" />
-<img src="https://img.shields.io/badge/🍴_34-9c27b0?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MIT-green?style=flat-square" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🔄 <a href="https://github.com/Yanyutin753/RefreshToV1Api">RefreshToV1Api</a></h3>
-
-<p align="center">Transfer /v1/* API with refresh_token as key.<br/>Auto-update access_token, high concurrency support.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/⭐_281-fa4694?style=flat-square" />
-<img src="https://img.shields.io/badge/🍴_44-9c27b0?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MIT-green?style=flat-square" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">💬 <a href="https://github.com/Yanyutin753/refresh-gpt-chat">refresh-gpt-chat</a></h3>
-
-<p align="center">refresh-gpt-chat transfers /v1/* API with refresh_token.<br/>Auto-update access_token, high concurrency support.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/⭐_242-fa4694?style=flat-square" />
-<img src="https://img.shields.io/badge/🍴_24-9c27b0?style=flat-square" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MIT-green?style=flat-square" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">❤️ <a href="https://github.com/Yanyutin753/shop-task-forlovers">shop-task-forlovers</a></h3>
-
-<p align="center">A task & shop website for couples/friends.<br/>Vue3 + SpringBoot, student-friendly free deployment.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/⭐_192-fa4694?style=flat-square" />
-<img src="https://img.shields.io/badge/🍴_31-9c27b0?style=flat-square" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MIT-green?style=flat-square" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 <a href="https://github.com/Yanyutin753/lobe-chat">lobe-chat (Fork)</a></h3>
-
-<p align="center">Contributions to LobeChat.<br/>An open-source, modern-design ChatGPT/LLMs UI framework.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/⭐_313-fa4694?style=flat-square" />
-<img src="https://img.shields.io/badge/🍴_127-9c27b0?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MIT-green?style=flat-square" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 ### ✨ GitHub Stats
@@ -215,8 +118,6 @@ current_project: 🐑 LambChat — Multi-tenant AI Agent Platform
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanyutin753&bg_color=0d1117&color=fa4694&line=c9d1d9&point=9c27b0&area=true&hide_border=true" width="640" />
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yanyutin753&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
